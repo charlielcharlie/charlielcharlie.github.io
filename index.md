@@ -1,6 +1,5 @@
-<h1>Welcome to my CS-499 capstone project for SNHU.</h1>
+<h1>Code Review</h1>
 
-## Code Review
 
 
 
