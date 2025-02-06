@@ -1,4 +1,4 @@
-<h1  style="font-size: 30px; color: blue;">Welcome to my SNHU Computer Science Capstone ePortfolio.</h1> 
+<h1  style="font-size: 55px; color: blue;">Welcome to my SNHU Computer Science Capstone ePortfolio.</h1> 
 
 <h1>Professional Self-Assessment</h1>
 
