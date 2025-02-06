@@ -1,4 +1,3 @@
-<h1  style="color: CornflowerBlue;">Welcome to my SNHU Computer Science Capstone ePortfolio.</h1> 
 
 <h1>Professional Self-Assessment</h1>
 
