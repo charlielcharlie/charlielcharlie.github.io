@@ -8,11 +8,15 @@
 
 <h1 style="color: CornflowerBlue;">Software Design and Engineering</h1>
 
-<code style="font-size: 18px;">You can play Learn Animal Names <a href="https://github.com/charlielcharlie/charlielcharlie.github.io/tree/main/LearnAnimalNames">here</a>.</code> 
+<code style="font-size: 18px;">You can find Learn Animal Names <a href="https://github.com/charlielcharlie/charlielcharlie.github.io/tree/main/LearnAnimalNames">here</a>.</code> 
+
 <h1 style="color: CornflowerBlue;">Algorithms and Data Structure</h1>
 
-<code style="font-size: 18px;">You can play Learn Animal Names <a href="https://github.com/charlielcharlie/charlielcharlie.github.io/tree/main/LearnAnimalNames">here</a>.</code> 
+<code style="font-size: 18px;">You can find Learn Animal Names <a href="https://github.com/charlielcharlie/charlielcharlie.github.io/tree/main/LearnAnimalNames">here</a>.</code> 
+
 <h1 style="color: CornflowerBlue;">Databases</h1>
+
+<code style="font-size: 18px;">You can find Learn Animal Names <a href="">here</a>.</code> 
 
 
 
